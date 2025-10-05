@@ -1,5 +1,6 @@
 # HTML-School-Website
 First solo project completed on 2018 A.D.
+<br>
 A simple website of school project using HTML featuring
 - Home page : A simple description of school
 - Event page : Some annual events and hoe it was organized and concluded
